@@ -1,2 +1,2 @@
 👋 Hi, I’m @CrisoforoFS
-Soy un estudiante de segundo semestre, pero eso nunca me detuvo a ser un Full Stack pero apenas me voy adentrando, actualmente utilizo NetxJS para crear apps complejas y de alto cambio.
+I'm a sophomore, but I'm just starting out as a full-stack developer. I currently use NextJS to create complex and high-change apps
